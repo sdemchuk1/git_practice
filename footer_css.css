@@ -1,0 +1,19 @@
+footer {
+  padding: 50px 0;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  background: #0d0f1b; }
+  footer .deposit {
+    margin: 30px 0;
+    height: 14px;
+    font-family: "Roboto-Regular";
+    font-size: 14px;
+    line-height: 1.15;
+    text-align: center;
+    color: #4e5665; }
+  footer .payments {
+    background: url("../img/payments_sprite.png") no-repeat;
+    width: 628px;
+    height: 25px;
+    margin: 0 auto; }
